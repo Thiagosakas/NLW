@@ -12,7 +12,6 @@ body {
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-color: #121214;
-    width: 100%;
 }
 
 body*{
@@ -52,8 +51,8 @@ header img {
 
 main {
     /* border:1px solid red; */
-    max-width: 100%;
-    width: 100%;
+    max-width: 580px;
+    width: 90%;
     margin: 32px auto;
     display: grid;
     gap: 24px;
